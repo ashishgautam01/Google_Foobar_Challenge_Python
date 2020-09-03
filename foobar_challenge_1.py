@@ -35,5 +35,4 @@ def solution(area):
 
 	return final
 
-z = solution(12)
-print(z)
+print(solution(12))
